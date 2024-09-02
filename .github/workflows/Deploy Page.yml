@@ -3,7 +3,7 @@ name: Build and Publish Jekyll Site
 on:
   push:
     branches:
-      - master # Change this to your master branch's name
+      - main # Change this to your master branch's name
 
 jobs:
   build:
